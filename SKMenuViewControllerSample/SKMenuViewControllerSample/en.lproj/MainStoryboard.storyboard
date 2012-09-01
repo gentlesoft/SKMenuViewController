@@ -11,7 +11,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
                 <viewController id="2" customClass="ViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="3">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="460"/>
+                        <rect key="frame" x="0.0" y="20" width="320" height="460"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="X0v-iu-p2c">
@@ -195,7 +195,7 @@
                     </connections>
                 </viewController>
             </objects>
-            <point key="canvasLocation" x="639" y="-97"/>
+            <point key="canvasLocation" x="660" y="-3"/>
         </scene>
         <!--Menu View Controller-->
         <scene sceneID="MzB-pS-vBo">
@@ -297,7 +297,7 @@
                     </connections>
                 </viewController>
             </objects>
-            <point key="canvasLocation" x="579" y="349"/>
+            <point key="canvasLocation" x="648" y="352"/>
         </scene>
     </scenes>
     <classes>
@@ -325,7 +325,7 @@
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
+        <segue reference="mYC-s3-xVt"/>
         <segue reference="Z4X-4x-RZs"/>
-        <segue reference="kPv-Md-M4d"/>
     </inferredMetricsTieBreakers>
 </document>
